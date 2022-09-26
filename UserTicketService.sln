@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTicketService", "UserTicketService\UserTicketService.csproj", "{C45BBCEB-29CC-4E08-861E-F0A8D3EB5E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTicketService.Tests", "UserTicketService.Tests\UserTicketService.Tests.csproj", "{AA6E6819-F859-42FB-A333-5A0CE302933B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C45BBCEB-29CC-4E08-861E-F0A8D3EB5E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45BBCEB-29CC-4E08-861E-F0A8D3EB5E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45BBCEB-29CC-4E08-861E-F0A8D3EB5E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45BBCEB-29CC-4E08-861E-F0A8D3EB5E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6E6819-F859-42FB-A333-5A0CE302933B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6E6819-F859-42FB-A333-5A0CE302933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6E6819-F859-42FB-A333-5A0CE302933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6E6819-F859-42FB-A333-5A0CE302933B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27F89ADC-AB29-4019-821B-4ABC65DDD482}
+	EndGlobalSection
+EndGlobal
